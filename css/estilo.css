@@ -7,7 +7,7 @@
 
 
 body {
- background-color: rgb(16, 117, 233) !important;
+ background-color: rgb(66, 102, 145) !important;
 
 
 }
@@ -15,8 +15,7 @@ body {
  
 
 .campo {
-    margin-left: 40%;
-    margin-top: 15%;
+    
     box-shadow: 0px 0px 4px rgb(107, 106, 106);
     padding: 50px;
     width: 320px;
@@ -24,13 +23,16 @@ body {
     text-align: center;
     border-radius: 20px;
     border: none;
-    width: 250px;
-    background-color: rgb(100, 115, 202);
-    color: white;
-    font-
+    width: auto;
+    background-color: rgb(235, 236, 241);
+    color: rgb(197, 40, 40);
+    margin: auto;
+    font-size: large;
+    
 
 
 }
+
 
 
 
