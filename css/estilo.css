@@ -24,7 +24,7 @@ body {
     border-radius: 20px;
     border: none;
     width: auto;
-    background-color: rgb(235, 236, 241);
+    background-color: rgb(205, 211, 223);
     color: rgb(197, 40, 40);
     margin: auto;
     font-size: large;
@@ -33,11 +33,27 @@ body {
 
 }
 
+#id.velocidade {
+    background:tomato;
+
+}
 
 
 
 
-.salvar {
-    width: 250px;
 
+.campo h1{
+    font-size: 50px;
+    color: rgb(248, 85, 9);
+    padding: 50px;
+    background-color: rgb(26, 10, 245);
+    border-radius: 10px;
+
+   
+
+}
+.campo p {
+    font-size: 25px;
+    color: darkblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
